@@ -8,3 +8,4 @@ df -h
 echo "**********************************"
 date
 uname -a
+who am i
