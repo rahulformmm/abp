@@ -8,3 +8,4 @@ df -h
 echo "**********************************"
 date
 who am i
+echo "Rahul."
