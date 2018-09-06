@@ -9,3 +9,4 @@ echo "**********************************"
 date
 uname -a
 who am i
+who
